@@ -10,6 +10,7 @@ Instead of using modern Vision Language Models (VLMs), this project explores an 
 
 ```
 Image-Captioning-based-on-KNN-using-FAISS
+│
 ├── README.md                   # Project documentation
 ├── requirements.txt            # Project dependencies
 ├── image_captioning_knn.ipynb  # Jupyter notebooks for exploration
