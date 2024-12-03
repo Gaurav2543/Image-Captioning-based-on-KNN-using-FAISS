@@ -1,4 +1,4 @@
-# KNN-based Image Captioning
+# Image Captioning based on FAISS and KNN
 
 This project implements an algorithm for Image Captioning using K-Nearest Neighbors (KNN) approach. The implementation is based on the paper [A Distributed Representation Based Query Expansion Approach for Image Captioning](https://aclanthology.org/P15-2018.pdf).
 
