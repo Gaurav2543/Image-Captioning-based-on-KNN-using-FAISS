@@ -9,7 +9,7 @@ Instead of using modern Vision Language Models (VLMs), this project explores an 
 ### File Structure
 
 ```
-Image-Captioning-based-on-KNN-using-FAISS
+Image-Captioning-based-on-KNN-using-FAISS/
 │
 ├── README.md                   # Project documentation
 ├── requirements.txt            # Project dependencies
