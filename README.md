@@ -9,15 +9,18 @@ Instead of using modern Vision Language Models (VLMs), this project explores an 
 ### File Structure
 
 ```
+Image-Captioning-based-on-KNN-using-FAISS
 ├── README.md                   # Project documentation
 ├── requirements.txt            # Project dependencies
 ├── image_captioning_knn.ipynb  # Jupyter notebooks for exploration
+│
 ├── src/                        # Source code
 │    ├── __init__.py
 │    ├── model.py               # Main KNN model implementation
 │    ├── utils.py               # Helper functions
 │    ├── main.py  
 │    └── evaluation.py          # Evaluation metrics
+│
 └── data/                       # Directory for data files
    ├── embeddings/             	# Pre-computed embeddings
    │   ├── coco_captions.npy
